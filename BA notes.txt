@@ -1,0 +1,92 @@
+DATA ANALYST
+sql- intermediate level- windows
++BI tool (Power BI) 
+create microsoft ep5 account
+edx.org **   ------ 24 weeks to complete course Python for Data Analyst
+
+#*MySql programming with mosh
+***power BI by Pavan Lalwani
+**python for data analysis udemy
+**Excel
+kaggle to test yourself
+
+
+Refer Scribd for 4-5 sample BRDs to understand and prepare one.   
+Scribd for testing documents.
+
+
+BUSINESS ANALYST
+communication, presentation, Word, Excel, JIRA, Chart, email writing skills
+
+
+
+1. In ppt justity why doing the analysis
+2. be a good story teller
+3.see the opportunity, find solution and sell  it. sales skill
+4.
+
+Excel insert --- option-- create charts and statistics
+Work on Statistics -- median--- mode---kurtosis-skewness---hypothesis testing---probability
+
+macro--VBA -- 1month
+
+python for data analysis--- pandas---numpy----scipy----matpotlib ---- 2 months
+
+
+what are the roles and responsibilities of a BA? meeting stakeholders, forming team, preparing test cases, validationg 
+
+
+
+Prepare good introduction about yourself
+Personal--- Professional--- Personal with hobby
+dont use technical words--- 3-4 lines for personal/professional
+
+
+
+
+
+Phases of SDLC
+Requirement Collection--- Feasibility Study(prod manager, HR, Architecs, Finance)--- Technology--- Design--- Coding---- TEsting---- Installation/Implementation--- Maintenance
+
+
+understand the requirement properly---
+SMART---
+Specific---Measurable ----Achievable ----Relevant ----- Timebound
+
+
+Communication very imp  between stakeholders and you
+
+
+
+
+BRD Requirement gathering
+SRS 
+
+
+Behavioral diagram and Structural diagram are backend diagrams
+Wire frame is the user interface diagram
+
+
+
+Test Cases:
+Testing is Quality check
+whit box testing/ technical testing
+
+black box testing/ functional testing--- validating- going through process to chck everything is processing properly or not. **for BA
+
+flowgraph
+
+** uml diagram, activity diagram, test cases, pre value analysis, factors to keepin mind toprepare test cases. boundry values,etc.
+
+
+Research for ecommerce website/ cloud kitchen/ grant tracker
+Prepare BRD
+
+
+
+Methodology:
+
+
+
+
+
